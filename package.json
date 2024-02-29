@@ -1,0 +1,33 @@
+{
+  "name": "string-like",
+  "version": "1.0.0",
+  "description": "A string like object to use in templates !!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalu017/string-like.git"
+  },
+  "keywords": [
+    "string-like"
+  ],
+  "author": "jalu017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalu017/string-like/issues"
+  },
+  "homepage": "https://github.com/jalu017/string-like#readme",
+  "devDependencies": {
+    "kucing-hitam": "^1.0.0",
+    "tehkotak": "^1.0.0"
+  },
+  "dependencies": {
+    "pinjam-dulu-seratus": "^1.0.0",
+    "string": "^3.3.3"
+  }
+}
